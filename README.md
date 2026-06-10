@@ -4,6 +4,12 @@ Aplicação web de **placar eletrônico** para exibição em telas durante jogos
 
 ---
 
+## Aviso
+
+Este projeto é privado e foi disponibilizado apenas para fins educacionais e de portfólio. Não é permitida a cópia, redistribuição ou utilização do código sem autorização do autor.
+
+---
+
 ## Funcionalidades
 
 - **Placar:** gols dos times da casa e visitante
@@ -64,36 +70,7 @@ Aplicação web de **placar eletrônico** para exibição em telas durante jogos
 
 ---
 
-## Como rodar o projeto
 
-Requisitos: **Node.js** e **npm** instalados.
-
-```bash
-# Entrar na pasta do projeto
-cd snap-and-style-lab-main
-
-# Instalar dependências
-npm install
-
-# Subir o servidor de desenvolvimento
-npm run dev
-```
-
-O site abre em **http://localhost:5173** (ou na porta indicada no terminal).
-
-### Build para produção
-
-```bash
-npm run build
-```
-
-Os arquivos gerados ficam na pasta `dist/`. Para testar o build localmente:
-
-```bash
-npm run preview
-```
-
----
 
 ## Configurações (menu engrenagem)
 
@@ -158,4 +135,8 @@ snap-and-style-lab-main/
 
 ## Licença
 
-Projeto privado. Uso conforme definido pelo proprietário do repositório.
+Este é um projeto privado e está disponível neste repositório exclusivamente para fins educacionais, demonstração de conhecimentos e composição de portfólio.
+
+A reprodução, distribuição, modificação ou utilização deste projeto para fins comerciais não é permitida sem autorização prévia do proprietário.
+
+Todos os direitos reservados.
